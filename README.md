@@ -8,12 +8,6 @@
 
 <font color="pink">Coffe coffe is how I keep up witth `< code />`</font>
 
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/layrexd/
-[discord]: https://discord.com/users/849970297343836170
-[twitter]: https://twitter.com/fatih_layrex
 
 ### Tech I Use
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="25" height="25">
