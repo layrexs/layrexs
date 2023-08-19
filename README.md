@@ -8,12 +8,6 @@
 
 <font color="pink">Coffe coffe is how I keep up witth `< code />`</font>
 
-## Reach Out To Me 
-
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/icons/Instagram.svg" align="left"/>] [instagram] 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/icons/Discord.svg" align="left"/>] [discord] 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/icons/Twitter.svg" align="left"/>] [twitter] 
-
 <br />
 <br />
 
