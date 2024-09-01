@@ -2,7 +2,7 @@
 
 ### Hi There I'm Layrex. :smile:
 
-## Full Stack Developer | Vue Developer
+## Full Stack Developer | Software Developer
 
 
 <font color="pink">Coffe coffe is how I keep up witth `< code />`</font>
