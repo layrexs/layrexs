@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXJrZTJwZ2ZqdGF2a3ZiYmRhMGN3anZiZngxZTQyeGxvM29vMzNlbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" align="right" width="400" height="250">
 
-### Hi There I'm Layrex. :smile:
+### Hi There I'm Fatih.
 
 ## Junior Full Stack Developer | Software Developer
 
