@@ -2,7 +2,7 @@
 
 ### Hi There I'm Layrex. :smile:
 
-## Juniorf Full Stack Developer | Software Developer
+## Junior Full Stack Developer | Software Developer
 
 
 <font color="pink">Coffe coffe is how I keep up witth `< code />`</font>
