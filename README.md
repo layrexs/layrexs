@@ -5,7 +5,7 @@
 ## Junior Full Stack Developer | Software Developer
 
 
-<font color="pink">Coffe coffe is how I keep up witth `< code />`</font>
+<font color="pink">coffe is how I keep up witth `< code />`</font>
 
 
 ### Tech I Use
