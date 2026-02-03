@@ -1,25 +1,16 @@
-<img src="https://cdn.discordapp.com/attachments/929624859259047957/1468205668581249057/image.png?ex=69832c95&is=6981db15&hm=6361d82841867d507205b7eb4da0a58a9b04734cf706612a5dbe8aa95b194ab6&" align="right" width="400" height="250">
-
-<br />
-<br />
+<div align="center">
+  <img src="[https://media.discordapp.net/attachments/850368535988928522/1468204309043875911/image.png?ex=69832b51&is=6981d9d1&hm=cf521591c70d54318551422be7cc79a4b0212a61763a98ea42190e8a0d7d8303&=&format=webp&quality=lossless](https://cdn.discordapp.com/attachments/929624859259047957/1468205668581249057/image.png?ex=69832c95&is=6981db15&hm=6361d82841867d507205b7eb4da0a58a9b04734cf706612a5dbe8aa95b194ab6&)" width="400" height="250" alt="Profile Image">
+</div>
 
 ### Tech I Use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="25" height="25">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" align="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" align="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" align="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" align="left" width="25" height="25">
-
-<br />
-<br />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="25" height="25" alt="Vue">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="25" height="25" alt="Tailwind">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="25" height="25" alt="PHP">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" alt="Python">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="25" height="25" alt="Ruby">
+</div>
