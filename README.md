@@ -1,8 +1,5 @@
 <img src="https://media.discordapp.net/attachments/850368535988928522/1468204309043875911/image.png?ex=69832b51&is=6981d9d1&hm=cf521591c70d54318551422be7cc79a4b0212a61763a98ea42190e8a0d7d8303&=&format=webp&quality=lossless" align="right" width="400" height="250">
 
-<font color="pink">coffe is how I keep up witth `< code />`</font>
-
-
 ### Tech I Use
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="25" height="25">
 
@@ -30,14 +27,3 @@
 <br />
 
 <br />
-
-<summary>:bulb: Github Stats</summary>
-<img src ="https://github-readme-stats.vercel.app/api?username=layrexs&theme=radical">
-</details> 
-<br />
-
-<details>
-
-<summary>:bulb: Most Used Languages</summary>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=layrexs">
-</details> 
