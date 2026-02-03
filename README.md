@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/929624859259047957/1468205668581249057/image.png?ex=69832c95&is=6981db15&hm=6361d82841867d507205b7eb4da0a58a9b04734cf706612a5dbe8aa95b194ab6&" width="400" height="250" alt="Profile Image">
+  <img src="https://cdn.discordapp.com/attachments/929624859259047957/1468205668581249057/image.png?ex=69832c95&is=6981db15&hm=6361d82841867d507205b7eb4da0a58a9b04734cf706612a5dbe8aa95b194ab6&" width="600" height="300" alt="Profile Image">
 </div>
 
 ### Tech I Use
