@@ -20,10 +20,3 @@
 <br />
 <br />
 
-<details>
-  
-<br />
-<br />
-<br />
-
-<br />
