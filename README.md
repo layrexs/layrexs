@@ -1,10 +1,5 @@
 <img src="https://media.discordapp.net/attachments/850368535988928522/1468204309043875911/image.png?ex=69832b51&is=6981d9d1&hm=cf521591c70d54318551422be7cc79a4b0212a61763a98ea42190e8a0d7d8303&=&format=webp&quality=lossless" align="right" width="400" height="250">
 
-### Hi There I'm Fatih.
-
-## Junior Full Stack Developer | Software Developer
-
-
 <font color="pink">coffe is how I keep up witth `< code />`</font>
 
 
